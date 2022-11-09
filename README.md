@@ -10,5 +10,5 @@ C1 = 0.1uF
 
 https://github.com/satoshiokue/EMUZ80-6502
 
-EMUZ80-6502メザニンボード専用プリント基板 - オレンジピコショップ  
+MEZ6502専用プリント基板 - オレンジピコショップ  
 https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-058.html

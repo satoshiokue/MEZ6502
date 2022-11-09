@@ -1,7 +1,7 @@
 # MEZ6502
 W65C816S/W65C02S/6502 Mezzanine board for EMUZ80  
 
-R1 = 10k  
+R1 >= 2k  
 R2 = 3.3k  
 C1 = 0.1uF  
 
